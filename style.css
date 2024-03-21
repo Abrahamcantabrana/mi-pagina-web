@@ -1,5 +1,5 @@
 
-body .principal{
+body{
     background-color: rgb(171, 52, 52);
 }
 
@@ -97,7 +97,7 @@ body .principal{
 }
  /* fin boton */
 
-div .botones{
+nav{
     display: flex;
     justify-content: center;
 }
